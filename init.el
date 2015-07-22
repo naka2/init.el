@@ -173,6 +173,7 @@
     helm-ls-git
     init-loader
     js2-mode
+    redo+
     magit
     markdown-mode
     open-junk-file
